@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+The online ordering system for restaurants helps to improve the customer-restaurant relationship. It provides a complete sales dashboard with information on active or canceled orders.
 
 You can use the [editor on GitHub](https://github.com/Mansi130/FTR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
