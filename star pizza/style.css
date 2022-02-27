@@ -1,0 +1,191 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+  /*Navbar Style*/
+#mynavbar li a {
+  color: white!important;
+  text-align: center;
+}
+
+#mynavbar li a:hover{
+  background-color: #ff0000d6;
+}
+
+  /*Banner Style*/
+  .banner{
+  background-image: url("banner1.jpg");
+  height: 85%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 58px;
+}
+
+.banner1 h1{
+  margin-top: -300px!important;
+  font-size: 60px;
+  color: #fff;
+  margin-left: 10%;
+  text-shadow: 2px 2px #f54207;
+}
+
+.banner1 h2{
+  color: #db590d;
+  margin-left: 25%;
+}
+
+.banner1 h5{
+  color: #ffffffa8;
+  margin-left:20%;
+}
+
+  /*Special Dishes Style*/
+.spe{
+  margin-top:13%;
+}
+
+.spe h2{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.row{
+  margin-bottom: 2%;
+  margin-right: 10%!important;
+  margin-left: 17%!important;
+}
+
+.column {
+  float: left;
+  width: 30%!important;
+  margin-left: 10%;
+  margin-right: 0px;
+  border: 2px #000;
+  border-style: groove;
+  box-shadow: 0px 0px 15px 2px #d5d5d5;
+}
+
+.column p{
+  text-align: center;
+}
+
+.column img{
+  width: 40%;
+  height: 40%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column:hover{
+   box-shadow: 0px 0px 15px 2px #ff4343;
+   border-color: #ff4343;
+}
+
+.column:hover h3{
+   text-shadow: 1px 0px  #ff6d01;
+}
+
+.column:hover p{
+  color: #00641a;
+}
+
+/*Servives Style*/
+.service h2{
+  margin-top: 5%;
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+.rows{
+  margin-bottom: 2%;
+  margin-right: 10%!important;
+  margin-left: 10%!important;
+}
+
+.columns {
+  float: left;
+  width:28%!important;
+  margin-left: 4%;
+  margin-right: 0px;
+  border: 2px #000;
+  border-style: groove;
+  box-shadow: 0px 0px 15px 2px #ffacac7d;
+}
+
+.columns p{
+  text-align: center;
+}
+
+.columns img{
+  width: 30%;
+  height: 30%;
+}
+
+.rows:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*Footer Style*/
+.footer{
+  background-color: #0e0e0efa;
+  height: 50%;
+}
+
+.footer img{
+  width: 20%;
+}
+
+.footer p{
+  color: #fff;
+  text-align: center;
+}
+
+.footer ul{
+  text-align: center;
+  list-style-type: none;
+  margin-top: 0px; 
+}
+
+.footer li{
+  display: inline-block;
+  width: 70px;
+  list-style: outside none none;
+}
+
+.footer a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer i{
+  font-size:36px;
+  color:white;
+  width: 50px;
+  margin-top: 0px;
+}
+
+.footer a:hover{
+  color: #ff3b00;
+  text-decoration: none;
+}
+
+/*Copyright Style*/
+.copy {
+  background-color: #000;
+  margin-top: -16px; 
+}
+
+.copy p{
+  color: #fff!important;
+}
+
+/*Don't make any changes at above you are suppose to do changes at below */
+
